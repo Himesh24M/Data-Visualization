@@ -1,10 +1,26 @@
-Amazon Sales Report
-This project focuses on analyzing Amazon sales data by performing data cleaning and exploratory data analysis (EDA). The dataset contains sales records of clothing items, including attributes such as size, category, and country of purchase.
+Virat Kohli Cricket Stats Dashboard
+This project presents an interactive dashboard to analyze Virat Kohli's cricket statistics, providing insights into his performance across different formats, matches, and conditions.
 
-Key Analysis:
-Data Cleaning: Handled missing values, removed duplicates, and standardized data formats.
-Sales Analysis by Size: Identified the number of clothing items sold per size category.
-Sales Analysis by Category: Examined the distribution of clothing sales across different categories.
-Country-wise Distribution: Analyzed the sales distribution across various countries to identify regional trends.
-The insights gained from this analysis can help in understanding customer preferences and optimizing inventory management.
+Project Overview:
+The dashboard visualizes key performance metrics, helping cricket enthusiasts, analysts, and fans explore Kohli’s stats in an interactive way.
 
+Features & Insights:
+
+Batting Performance:
+
+Total runs, average, and strike rate across Tests, ODIs, and T20s , IPL.
+
+Centuries & Half-Centuries.
+
+Total number of 100s & 50s by format.
+
+Breakdown of centuries across different years.
+
+Runs by year and format Analysis.
+
+Technologies Used:
+
+Python (Data Processing)
+Pandas & NumPy (Data Cleaning & Transformation)
+POWER BI (Data Visualization)
+POWER BI(Interactive Dashboard)
